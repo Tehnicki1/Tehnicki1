@@ -1,4 +1,4 @@
-<h1 align="center">👾 ykela</h1>
+<h1 align="center">Ykela</h1>
 
 <p align="center"><em>Malware Analyst • Game Exploit Developer • Java Reverse Engineer • OSINT Practitioner</em></p>
 
