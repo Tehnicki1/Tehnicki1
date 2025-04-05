@@ -1,16 +1,17 @@
-## Hi there 👋
+<h1 align="center">Ykela</h1>
 
-<!--
-**Tehnicki1/Tehnicki1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center"><em>Malware Analysis • Game Exploitation • Java Reverse Engineering</em></p>
 
-Here are some ideas to get you started:
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  🧠 Cybersecurity enthusiast with a deep interest in low-level systems, software internals, and reverse engineering.  
+  I specialize in analyzing malicious code, breaking game mechanics, and deconstructing Java applications to understand their behavior.
+</p>
+
+<p align="center">
+  🔬 Always exploring the intersection of curiosity and technical precision.  
+  I enjoy solving complex problems, uncovering hidden logic, and pushing software beyond its intended limits.
+</p>
+
+<p align="center"><strong>Let's talk binaries, exploits, and everything in between.</strong></p>
