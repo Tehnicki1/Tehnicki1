@@ -5,12 +5,12 @@
 <br/>
 
 <p align="center">
-  Hey! I'm ykela — just getting started in the world of cybersecurity and reverse engineering.  
+  🛡️ Hey! I'm ykela — just getting started in the world of cybersecurity and reverse engineering.  
   I’m learning how to analyze malware, mess with games, dig into Java apps, and do some basic OSINT investigations.
 </p>
 
 <p align="center">
-  Right now, I’m mostly experimenting, breaking things (on purpose), and trying to understand how stuff really works under the hood.  
+  🧠 Right now, I’m mostly experimenting, breaking things (on purpose), and trying to understand how stuff really works under the hood.  
   I’m not an expert — just really curious and always trying to level up.
 </p>
 
