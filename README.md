@@ -1,17 +1,17 @@
 <h1 align="center">Ykela</h1>
 
-<p align="center"><em>Malware Analyst • Game Exploit Enthusiast • Java Reverse Engineer • OSINT Practitioner</em></p>
+<p align="center"><em>Beginner Malware Analyst • Game Exploit Enthusiast • Java Reverse Engineer (in progress) • OSINT Explorer</em></p>
 
 <br/>
 
 <p align="center">
-  🧠 Cybersecurity enthusiast with a deep interest in low-level systems, software internals, and reverse engineering.  
-  I specialize in analyzing malicious code, breaking game mechanics, deconstructing Java applications, and conducting open-source intelligence investigations.
+  Hey! I'm ykela — just getting started in the world of cybersecurity and reverse engineering.  
+  I’m learning how to analyze malware, mess with games, dig into Java apps, and do some basic OSINT investigations.
 </p>
 
 <p align="center">
-  🔬 Always exploring the intersection of curiosity and technical precision.  
-  I enjoy solving complex problems, uncovering hidden logic, tracking digital footprints, and pushing software beyond its intended limits.
+  Right now, I’m mostly experimenting, breaking things (on purpose), and trying to understand how stuff really works under the hood.  
+  I’m not an expert — just really curious and always trying to level up.
 </p>
 
-<p align="center"><strong>Let's talk binaries, exploits, footprints, and everything in between.</strong></p>
+<p align="center"><strong>Always learning. Always digging. Always curious.</strong></p>
