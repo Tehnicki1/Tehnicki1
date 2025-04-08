@@ -1,6 +1,6 @@
 <h1 align="center">Ykela</h1>
 
-<p align="center"><em>Beginner Malware Analyst • Game Exploit Enthusiast • Java Reverse Engineer (in progress) • OSINT Explorer</em></p>
+<p align="center"><em>Beginner Static Malware Analyst • Game Exploit Enthusiast • Java Reverse Engineer (in progress) • OSINT Explorer</em></p>
 
 <br/>
 
