@@ -1,11 +1,11 @@
 <h1 align="center">Ykela</h1>
 
-<p align="center"><em>Beginner Static Malware Analyst • Game Exploit Enthusiast • Java Reverse Engineer (in progress) • OSINT Explorer</em></p>
+<p align="center"><em>Beginner Static Malware Analyst • Game Exploit Enthusiast • Java Reverse Engineer (Cracker) • OSINT Explorer</em></p>
 
 <br/>
 
 <p align="center">
-  🛡️ Hey! I'm ykela — just getting started in the world of cybersecurity and reverse engineering.  
+  🛡️ Hey! I'm ykela — just getting started in the world of cybersecurity and cracking.  
   I’m learning how to analyze malware, mess with games, dig into Java apps, and do some basic OSINT investigations.
 </p>
 
