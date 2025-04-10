@@ -5,13 +5,29 @@
 <br/>
 
 <p align="center">
-  🛡️ Hey! I'm ykela — just getting started in the world of cybersecurity and cracking.  
-  I’m learning how to analyze malware, mess with games, dig into Java apps, and do some basic OSINT investigations.
+  🛡️ <strong>About Me</strong>  
 </p>
 
+<ul align="center">
+  <li>Beginner in static malware analysis</li>
+  <li>Interested in game exploitation and cheat development</li>
+  <li>Reverse engineering Java applications (cracking & modding)</li>
+  <li>Exploring OSINT (Open Source Intelligence) techniques</li>
+</ul>
+
+<br/>
+
 <p align="center">
-  🧠 Right now, I’m mostly experimenting, breaking things (on purpose), and trying to understand how stuff really works under the hood.  
-  I’m not an expert — just really curious and always trying to level up.
+  🧠 <strong>What I’m Doing Right Now</strong>  
 </p>
+
+<ul align="center">
+  <li>Breaking stuff (on purpose) to understand how it works</li>
+  <li>Learning through experimentation and curiosity</li>
+  <li>Diving deep into the low-level side of software and systems</li>
+  <li>Not an expert — just obsessed with learning and improving</li>
+</ul>
+
+<br/>
 
 <p align="center"><strong>Always learning. Always digging. Always curious.</strong></p>
