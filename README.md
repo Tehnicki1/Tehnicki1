@@ -9,11 +9,11 @@
 </p>
 
 <p align="center">
-  • Beginner in static malware analysis  
-  • Interested in game exploitation and cheat development  
-  • Reverse engineering Java applications (cracking & modding)  
-  • Exploring OSINT (Open Source Intelligence) techniques  
-  • Knowledgeable in batch coding  
+  Beginner in static malware analysis  
+  Interested in game exploitation and cheat development  
+  Reverse engineering Java applications (cracking & modding)  
+  Exploring OSINT (Open Source Intelligence) techniques  
+  Knowledgeable in batch coding  
 </p>
 
 <br/>
@@ -23,10 +23,10 @@
 </p>
 
 <p align="center">
-  • Breaking stuff (on purpose) to understand how it works  
-  • Learning through experimentation and curiosity  
-  • Diving deep into the low-level side of software and systems  
-  • Not an expert — just obsessed with learning and improving  
+  Breaking stuff (on purpose) to understand how it works  
+  Learning through experimentation and curiosity  
+  Diving deep into the low-level side of software and systems  
+  Not an expert — just obsessed with learning and improving  
 </p>
 
 <br/>
