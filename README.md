@@ -11,7 +11,7 @@
 
 <p align="center">
   🧠 Right now, I’m mostly experimenting, breaking things (on purpose), and trying to understand how stuff really works under the hood.  
-  I’m not an expert — just really curious and always trying to level up.
+  I’m not an expert — just really curious and always trying to improve.
 </p>
 
 <p align="center"><strong>Always learning. Always digging. Always curious.</strong></p>
